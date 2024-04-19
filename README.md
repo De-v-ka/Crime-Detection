@@ -24,7 +24,7 @@ The models were trained on a split of the dataset and evaluated using metrics li
 
 ## Results
 
-The best performing model achieved an accuracy of [insert accuracy value] in classifying messages, with high precision and recall for  attack detection.
+The best performing model achieved an accuracy of [1.0] in classifying messages for  attack detection.
 
 
 ## Code Structure and Usage
